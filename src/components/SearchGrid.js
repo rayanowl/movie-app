@@ -48,7 +48,7 @@ export default function SearchGrid({handleSearch, selectedData, setSelectedData}
     }, []);
 
   return (
-    <Container className="p-3 text-center" style={{width: "60%", border: "solid 2px black"}}>
+    <Container className="p-3 text-center" style={{width: "60%",  border: "solid 1px whitesmoke" , borderRadius: "10px", marginBottom: "30px"}}>
       <h4>Search</h4>
       <Form onSubmit={handleSearch}>
         <Row>
