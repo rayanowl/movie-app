@@ -62,3 +62,7 @@ li {
 .clickable:hover {
   transform: scale(1.50);
 }
+
+.carousel {
+  background-color: red;
+}
