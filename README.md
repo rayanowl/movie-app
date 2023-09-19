@@ -4,7 +4,7 @@ Merhaba, SabancıDx DxTechWay Talent Program / Case Study açıklama bölümüne
 
 Size hazırlamış olduğum, Movie Search Application (Frontend) projemden bahsedeceğim.
 
-Bu vaka çalışması özetle, filmlerin isim - yapımcı - tarih gibi spesifik bilgilerin girilerek sıralanabildiği bir uygulamadır.
+Bu vaka çalışması özetle, filmlerin isim - yapımcı - tarih gibi spesifik bilgilerin sıralanabildiği bir uygulamadır.
 
 ***Not: Uygulama başlamadan önce Loading animasyonu devreye girecektir. Filmlerin üzerine tıklandığında tüm bilgiler görüntülenmektedir.***
 
