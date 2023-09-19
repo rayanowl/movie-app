@@ -28,10 +28,12 @@ Bu vaka çalışması özetle, filmlerin isim - yapımcı - tarih gibi spesifik 
 
 # Proje kurulumu
 
-*Node.js kurulumu yapılmalı. (LTS seçilmesi mantıklı çünkü projeyi çalıştırmada sorun yaşayabilirsiniz.)
+ *Node.js kurulumu yapılmalı. (LTS seçilmesi mantıklı çünkü projeyi çalıştırmada sorun yaşayabilirsiniz.)*
 
-*Command Prompt'u (cmd) yönetici olarak çalıştırın. npm install -g create-react-app komutunu çalıştırın. Sonra cmd'yi kapatın.
+ *Command Prompt'u (cmd) yönetici olarak çalıştırın. > npm install -g create-react-app 
+ komutunu çalıştırın. Sonra cmd'yi kapatın.*
 
-*VS Code'da indirdiğiniz dosyayı açın. Büyük ihtimal çalışmayacaktır, node_modules klasörünü silin ve VS Code terminalini açın. npm install komutunu çalıştırın. Sonrasında npm start yazın ve uygulamamız çalışacaktır.
+ *VS Code'da indirdiğiniz dosyayı açın. Büyük ihtimal çalışmayacaktır, node_modules klasörünü silin ve VS Code terminalini açın. > npm install 
+ komutunu çalıştırın. Sonrasında > npm start yazın ve uygulamamız çalışacaktır.*
 
 
