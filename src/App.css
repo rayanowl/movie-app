@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+
+.movieCard {
+  transition: transform 0.5s ease-out
+}
+
+.movieCard:hover{
+  transform: scale(1.10);
+  box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
+}
+
+.modal-content {
+  width: 700px !important;
+}
+
+li {
+  list-style: none;
+}
+
+.clickable {
+  cursor: pointer;
+  transition: transform 0.5s ease-out;
+}
+
+.clickable:hover {
+  transform: scale(1.50);
+}
