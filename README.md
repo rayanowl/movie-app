@@ -6,19 +6,18 @@ Size hazırlamış olduğum, Movie Search Application (Frontend) projemden bahse
 
 Bu vaka çalışması özetle, filmlerin isim - yapımcı - tarih gibi spesifik bilgilerin girilerek sıralanabildiği bir uygulamadır.
 
-***Not: Uygulama başlamadan önce Loading animasyonu devreye girecektir.***
+***Not: Uygulama başlamadan önce Loading animasyonu devreye girecektir. Filmlerin üzerine tıklandığında tüm bilgiler görüntülenmektedir.***
 
 .....
 
-1- ***Anlaşılır ve estetik görüntü :*** Bootstrap, Popper ve yazılan custom CSS kodları ile arayüz her tarayıcıya uygundur.
+1- ***Anlaşılır ve estetik görüntü :*** Bootstrap, React Native ve yazılan custom CSS kodları ile arayüz her tarayıcıya uygundur.
 
 2- ***API destekli :*** Belli bir sunucudan film ->  posteri, tarihleri gibi bilgiler çekilir ve ekranda gösterilir.
 
-3- ***Kullanıcı dostu :*** Uygulama site arayüzüyle uyumludur. İçerisinde Media Query'ler barındırır. (Telefon ve tablet gibi cihazlarlada çalışır.)
+3- ***Kullanıcı dostu :*** Uygulama site arayüzüyle uyumludur. İçerisinde media query'ler barındırır. (Telefon ve tablet gibi cihazlardada çalışır.)
 
 4- Seçilen veri türüne göre filmler listelenir. (Film türü - Yapımcı - Oyuncular...)
 
 5- ***Data'nın gelmediği durumlar*** : Data gelmediği takdirde poster belirli bir font ile gösterilir. 
 
-6- ***Navbar:*** Özelleştirilmiş navbar ile "Şimdi izlenenler, Popüler" gibi başlıkları kullanarak hızlı listeleme yapabilirsiniz.
 
