@@ -20,9 +20,18 @@ Bu vaka çalışması özetle, filmlerin isim - yapımcı - tarih gibi spesifik 
 
 5- ***Data'nın gelmediği durumlar*** : Data gelmediği takdirde poster belirli bir font ile gösterilir. 
 
+6- Filmin üzerine tıklandığında çıkan bilgilerde direktör ve oyuncuların üstü tıklanabilir yapıdadır. Tıkladığınız takdirde bir küçük remove butonu ve seçili filtre yazılı ile birlikte oynanan film sıralanacaktır. 
+
+***Not: Oyuncu ve Direktör id'leri sadece tek bir filmi göstermektedir. API'da tek bir veri olduğu için tek film görünecektir.***
+
+7- Sadece tür veya tarih seçtiğinizdede veriler sıralanacaktır. Reset tuşuna bastıktan sonra Search butonuna tıkladığınız takdirde tüm filmler listelenecektir.
 
 # Proje kurulumu
 
-1-
+*Node.js kurulumu yapılmalı. (LTS seçilmesi mantıklı çünkü projeyi çalıştırmada sorun yaşayabilirsiniz.)
+
+*Command Prompt'u (cmd) yönetici olarak çalıştırın. npm install -g create-react-app komutunu çalıştırın. Sonra cmd'yi kapatın.
+
+*VS Code'da indirdiğiniz dosyayı açın. Büyük ihtimal çalışmayacaktır, node_modules klasörünü silin ve VS Code terminalini açın. npm install komutunu çalıştırın. Sonrasında npm start yazın ve uygulamamız çalışacaktır.
 
 
