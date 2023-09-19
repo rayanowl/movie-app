@@ -101,10 +101,10 @@ export default function MovieTable() {
     }
       <Row className="m-auto mb-5 w-25">
         <Col>
-          <Form.Label>Page Number</Form.Label>
+          <Form.Label style={{marginTop:"25px", color: "red", fontFamily: "monospace"}}>Page Number:</Form.Label>
         </Col>
         <Col>
-          <Form.Select className="text-center" onChange={e => updatePageNumber(e.target.value)}>
+          <Form.Select className="text-center" style={{marginTop:"20px"}} onChange={e => updatePageNumber(e.target.value)}>
             {[...Array(pageCount).keys()].map(val => <option key={val+1} value={val+1} selected={val + 1 === pageNumber}>{val+1}</option>)}
           </Form.Select>
         </Col>
