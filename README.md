@@ -14,7 +14,7 @@ Bu vaka çalışması özetle, filmlerin isim - yapımcı - tarih gibi spesifik 
 
 2- ***API destekli :*** Belli bir sunucudan film ->  posteri, tarihleri gibi bilgiler çekilir ve ekranda gösterilir.
 
-3- ***Kullanıcı dostu :*** Uygulama site arayüzüyle uyumludur. İçerisinde media query'ler barındırır. (Telefon ve tablet gibi cihazlardada çalışır.)
+3- ***Kullanıcı dostu :*** Uygulama site arayüzüyle uyumludur.
 
 4- Seçilen veri türüne göre filmler listelenir. Filmin üzerine tıklandığında tüm bilgiler listelenir. (Film türü - Yapımcı - Oyuncular...)
 
