@@ -21,8 +21,4 @@ Bu vaka çalışması özetle, filmlerin isim - yapımcı - tarih gibi spesifik 
 5- ***Data'nın gelmediği durumlar*** : Data gelmediği takdirde poster belirli bir font ile gösterilir. 
 
 6- ***Navbar:*** Özelleştirilmiş navbar ile "Şimdi izlenenler, Popüler" gibi başlıkları kullanarak hızlı listeleme yapabilirsiniz.
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
