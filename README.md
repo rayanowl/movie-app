@@ -8,7 +8,7 @@ Bu vaka çalışması özetle, filmlerin isim - yapımcı - tarih gibi spesifik 
 
 ***Not: Uygulama başlamadan önce Loading animasyonu devreye girecektir. Biraz bekleyin.***
 
-.....
+# ...
 
 1- ***Anlaşılır ve estetik görüntü :*** Bootstrap, React Native ve yazılan custom CSS kodları ile arayüz her tarayıcıya uygundur.
 
@@ -20,5 +20,9 @@ Bu vaka çalışması özetle, filmlerin isim - yapımcı - tarih gibi spesifik 
 
 5- ***Data'nın gelmediği durumlar*** : Data gelmediği takdirde poster belirli bir font ile gösterilir. 
 
+
+# Proje kurulumu
+
+1-
 
 
