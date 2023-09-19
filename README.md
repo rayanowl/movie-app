@@ -1,68 +1,26 @@
-# Getting Started with Create React App
+# MOVAPII - It's Movie time!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Merhaba, SabancıDx DxTechWay Talent Program / Case Study açıklama bölümüne hoşgeldiniz.
 
-## Available Scripts
+Size hazırlamış olduğum, Movie Search Application (Frontend) projemden bahsedeceğim.
 
-In the project directory, you can run:
+Bu vaka çalışması özetle, filmlerin isim - yapımcı - tarih gibi spesifik bilgilerin girilerek sıralanabildiği bir uygulamadır.
 
-### `npm start`
+***Not: Uygulama başlamadan önce Loading animasyonu devreye girecektir.***
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+.....
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+1- ***Anlaşılır ve estetik görüntü :*** Bootstrap, Popper ve yazılan custom CSS kodları ile arayüz her tarayıcıya uygundur.
 
-### `npm test`
+2- ***API destekli :*** Belli bir sunucudan film ->  posteri, tarihleri gibi bilgiler çekilir ve ekranda gösterilir.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+3- ***Kullanıcı dostu :*** Uygulama site arayüzüyle uyumludur. İçerisinde Media Query'ler barındırır. (Telefon ve tablet gibi cihazlarlada çalışır.)
 
-### `npm run build`
+4- Seçilen veri türüne göre filmler listelenir. (Film türü - Yapımcı - Oyuncular...)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+5- ***Data'nın gelmediği durumlar*** : Data gelmediği takdirde poster belirli bir font ile gösterilir. 
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
+6- ***Navbar:*** Özelleştirilmiş navbar ile "Şimdi izlenenler, Popüler" gibi başlıkları kullanarak hızlı listeleme yapabilirsiniz.
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm run build` fails to minify
